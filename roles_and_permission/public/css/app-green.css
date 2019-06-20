@@ -1117,7 +1117,6 @@ label,
       -ms-flex-align: center;
           align-items: center; }
 
-
 .item-list {
   list-style: none;
   padding: 0;
@@ -1374,7 +1373,6 @@ label,
           .item-list .item-actions-dropdown .item-actions-block .item-actions-list a.remove {
             color: #DB0E1E; }
 
-
 .card > .item-list .item > .item-row {
   padding: 0 15px; }
   @media (min-width: 1200px) {
@@ -1549,7 +1547,6 @@ span a {
 ::-webkit-scrollbar {
   width: 7px;
   height: 7px; }
-
 
 ::-webkit-scrollbar-track {
   border-radius: 0; }
@@ -1921,22 +1918,22 @@ span a {
     -webkit-transition: color 0.3s ease;
     transition: color 0.3s ease; }
     .dashboard-page .items .card-header .search .search-input::-webkit-input-placeholder {
-      /* WebKit, Blink, Edge */
+      
       -webkit-transition: color 0.3s ease;
       transition: color 0.3s ease;
       color: #C2CCD6; }
     .dashboard-page .items .card-header .search .search-input:-moz-placeholder {
-      /* Mozilla Firefox 4 to 18 */
+      
       -webkit-transition: color 0.3s ease;
       transition: color 0.3s ease;
       color: #C2CCD6; }
     .dashboard-page .items .card-header .search .search-input::-moz-placeholder {
-      /* Mozilla Firefox 19+ */
+      
       -webkit-transition: color 0.3s ease;
       transition: color 0.3s ease;
       color: #C2CCD6; }
     .dashboard-page .items .card-header .search .search-input:-ms-input-placeholder {
-      /* Internet Explorer 10-11 */
+      
       -webkit-transition: color 0.3s ease;
       transition: color 0.3s ease;
       color: #C2CCD6; }
@@ -1946,16 +1943,16 @@ span a {
     .dashboard-page .items .card-header .search .search-input:focus {
       color: #7e8e9f; }
       .dashboard-page .items .card-header .search .search-input:focus::-webkit-input-placeholder {
-        /* WebKit, Blink, Edge */
+        
         color: #aab4c0; }
       .dashboard-page .items .card-header .search .search-input:focus:-moz-placeholder {
-        /* Mozilla Firefox 4 to 18 */
+        
         color: #aab4c0; }
       .dashboard-page .items .card-header .search .search-input:focus::-moz-placeholder {
-        /* Mozilla Firefox 19+ */
+       
         color: #aab4c0; }
       .dashboard-page .items .card-header .search .search-input:focus:-ms-input-placeholder {
-        /* Internet Explorer 10-11 */
+        
         color: #aab4c0; }
       .dashboard-page .items .card-header .search .search-input:focus + .search-icon {
         color: #7e8e9f; }
